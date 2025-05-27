@@ -1,19 +1,16 @@
 # Dicionário Bororo
 
-Este repositório contém uma versão digital ampliada e aprimorada do **Dicionário Bororo** originalmente compilado por **Gonçalo Ochoa Camargo** (1997, Editora UCDB).
+Este repositório contém uma versão digital ampliada e aprimorada do **Dicionário Bororo** originalmente compilado a artir dos manuscritos por **Gonçalo Ochoa Camargo, SDB**, gentilmente cedidos a mim pela Missão Salesiana do Mato Grosso.
 
 🔗 **Acesse o dicionário online:**  
 [https://boeenomoto.pythonanywhere.com/dicionario/index.html](https://boeenomoto.pythonanywhere.com/dicionario/index.html)
-
-## 📘 Fonte Original
-
-- **Camargo, Gonçalo Ochoa**. *Dicionário Bororo-Português / Português-Bororo*. Campo Grande: Editora UCDB, 1997.
 
 ## ✨ Extensões e Melhorias
 
 Esta versão incorpora diversas correções e acréscimos, resultado de trabalho de campo com falantes do Bororo:
 
 - Correções de traduções e ortografia
+- Adição de verbetes
 - Revisão e padronização das classes de palavras
 - Inclusão de transcrições fonéticas em **AFI (IPA)**
 - Inserção de links para arquivos de áudio externos com pronúncia
@@ -22,7 +19,7 @@ Esta versão incorpora diversas correções e acréscimos, resultado de trabalho
 
 ## 🎯 Objetivo
 
-A iniciativa visa apoiar os esforços de documentação, revitalização e ensino da língua Bororo, oferecendo uma ferramenta de consulta rica e acessível para falantes nativos, pesquisadores e educadores.
+A iniciativa visa apoiar os esforços de documentação, revitalização e ensino da língua Bororo, oferecendo uma ferramenta de consulta rica e acessível para falantes nativos, pesquisadores, educadores, e interessados.
 
 ## 📄 Licença
 
