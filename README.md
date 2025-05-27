@@ -26,6 +26,7 @@ A iniciativa visa apoiar os esforços de documentação, revitalização e ensin
 Este trabalho está licenciado sob a licença **Creative Commons Atribuição 4.0 Internacional (CC BY 4.0)**.
 
 > Ao utilizar qualquer parte deste dicionário, **a citação do autor e do DOI é obrigatória**.  
-> DOI: _[insira aqui o DOI assim que disponível]_
+> [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.15524518.svg)](https://doi.org/10.5281/zenodo.15524518)
+> 
 
 Para mais detalhes, veja: [https://creativecommons.org/licenses/by/4.0/deed.pt](https://creativecommons.org/licenses/by/4.0/deed.pt)
