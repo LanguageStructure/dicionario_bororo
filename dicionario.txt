@@ -1,32 +1,28 @@
 -da [dːa] SUF. indica o lugar.
--do [dːʌ] SUF. imperativo de verbos intransitivos.
--do [dːʌ] SUF. sufixo causativo.
+-do1 [dːʌ] SUF. imperativo de verbos intransitivos.
+-do2 [dːʌ] SUF. sufixo causativo.
 -doge [doge] SUF. sufixo de plural.
 -du [dːɯ] SUF. sufixo de voz passiva.
 -du [dːɯ] SUF. sufixo singulativo, que transforma formas plurais em singular.
--du [IPA] SUF. sufixo singulativo, que transforma formas plurais em singular.
--go [go] SUF. indica forma causativa inceptiva de verbo.
+-ge [ge] SUF. sufixo de plural.
+-go [go] SUF. indica forma causativa inceptiva de verbo. Ver <i>-do2</i>.
 -go [go] SUF. sufixo feminino.
--godu [ˈgodːɯ] SUF. Aspecto inceptivo. indica ação icipiente.
+-godu [ˈgodːɯ] SUF. Aspecto inceptivo. indica ação icipiente. -- itaciagodure = eu começei a espirrar
 -guraga [guraga] ADV. muito, abundante(mente).
 -ia [ia] LEX. abertura, boca, recipiente, curva, volta.
 -ia [ia] SUF. indica desejo.
 -ia [ia] SUF. indica ocasião, lugar de, instrumento: -- aiwoia = lugar de observação; koguia = objeto para amarrar; enawuia = lugar de enfeite.
--iagu [iagu] SUF. indica transmissão de recado.
--iagu [iagu] SUF.[IPA] LEX. indica discurso indireto com exortação.
--ie [ie] SUF. indica discurso indireto.
+-iagu [iagu] SUF. indica discurso indireto com exortação. -- bataru aregodure paiagu tapira bito = chegou um recado para matarmos a vaca
+-ie [ie] SUF. indica discurso indireto. -- egore taregodumoduie iwogai rugadu = disseram que vão mesmo me procurar
 -ka [ka] SUF. não; indicador de forma negativa dos verbo. -- itukare = eu não fui.
 -kaba [kaba] SUF. Forma negativa do imperativo.
 -mode [mode] SUF. sufixo indicador de status irreal.
 -re [IPA] SUF.
 -re [ɾe] SUF. Indicativo.
--rewu [ˈɾewu] SUF. indica semelhança: jugo (queixada), jugorewu (semelhante a queixada: porco doméstico
--rogu [ɾogu] SUF. sufixo que marca diminutivo.
--wo [wo] SUF. para, a fim de. Indica finalidade. Subjuntivo.
--wu [wu] SUF. nominalizador de oração, relativizador.
-a [a] S. semente.
-a ra [IPA] VT. debulha, desgranar. -- are a ra = você debulha a semente.
-a rawuje VT. debulhar, desgranar a semente.
+-rogu [ɾogu] SUF. sufixo que marca diminutivo. -- karorogu = peixinho
+-wo [wo] SUF. para, a fim de; indica finalidade; subjuntivo -- akaidure ituwo = você quer que eu vá
+-wu [wu] SUF. nominalizador de oração, relativizador. -- itaregodure ia paga ko rairewu kae = cheguei am um córrego que era muito longo/fundo
+a [a] S. semente. -- are a ra = você debulhou a semente.
 a= IP. índice preso de 2.SG. tu, você, teu. Codifica argumentos de predicados, possuidores, e argumentos posposicionais.
 aceboere INTJ. oh não! Expressa impaciência, satisfação, admiração. Ver ceboere.
 acia [acia] LEX. espirro, espirrar.
@@ -113,6 +109,7 @@ akaruio [akaruio] LEX. famoso, ilustre.
 ake [ake] LEX. respiração, afã, preocupação, pressa, cansaço; pulso, aflição.
 ake muga [IPA] LEX. peito.
 ake tawuje [IPA] VT. respirar.
+akedo [IPA] VT. apressar.
 akedu [aˈkedːɯ] LEX. acabamento, fim; acabar.
 akedudo [akeˈdudːʌ] LEX. acabar, dar fim.
 akedudodu [akedudodːɯ] PPASS. acabado, concluído.
@@ -124,9 +121,9 @@ akemo [akemːo] LEX. desejo intenso, cobiça, desconfiança; desejar, cobiçar, 
 akemorewu [IPA] PRCL. cobiçoso, desconfiado.
 akena [akenːa] LEX. pele seca do nariz.
 aki [aki] LEX. quadril, anca.
-aki pron.pes[IPA] LEX. 2ª. sing. tu, você.
+aki [IPA] PRON. Forma livre de 2ª.SG.; tu, você.
 akidobo [akidobo] LEX. quadril, anca.
-akigu [akigu] LEX. algodão.
+akigu [akigu] LEX. algodão. (gênero [link: https://pt.wikipedia.org/wiki/Algodão]Gossypium) [image: https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Cotton_-_പരുത്തി_03.JPG/500px-Cotton_-_പരുത്തി_03.JPG]
 akigu [akigu] LEX. corda, cordel, fio, linha; nome genérico de enfeites feitos de linha.
 akigu arewu [IPA] S. algodãozinho.
 akigu enado [IPA] VC. tecer algodão.
@@ -139,14 +136,13 @@ akigu kodu [IPA] LEX. algodão, floco de algodão.
 akigu muga [IPA] LEX. tear de algodão.
 akigu mugudo [IPA] VC. armar o tear para tecer algodão.
 akiri i [IPA] LEX. angico branco.
-akiridoge [akiridoge] LEX. constelação das Pléiade[IPA].
-akiridoge [akiridoge] LEX. estação seca; constelação das Pléiades.
-akiridoge ewure kowudo. [IPA] S. Queima dos pés das plêiades. Nome de uma festa realizado pelos Bororo para prolongar o período das secas, masi propícios à vida nômade.
+akiridoge [akiridoge] LEX. estação seca; constelação das [link: https://pt.wikipedia.org/wiki/Plêiades]Pléiades [image: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Pleiades_large.jpg/500px-Pleiades_large.jpg].
+akiridoge ewure kowudo. [IPA] S. Queima dos pés das plêiades. Festa realizado pelos Bororo para prolongar o período das secas (junho-julho).
 akirio [akirio] LEX. enfeite de penugem para a cabeça.
 akirodo [akirodːʌ] LEX. trocar, comprar, vender.
 akirododa [akirododːa] LEX. lugar de troca, loja.
-akirododu PPA[IPA] S. trocado. -- akirododure = foi trocado
-akirí [akirí] LEX. angico.
+akirododu [IPA] PPAS. trocado. -- akirododure = foi trocado
+akirí [aˈkiɾi] LEX. angico.
 akiró [akiró] LEX. presente, dádiva, objeto trocado.
 akiwa (okiwa) [IPA] LEX. capivara.
 ako (mako) [IPA] LEX. voz, fala, súplica, canto, resposta, som; falar, dizer, responder, declarar, cantar, soar, tocar.
@@ -173,7 +169,7 @@ akodurirewu [akoduriˈɾewu] S. aquilo que tem som forte, som agradável.
 akoe [akoe] LEX. inhambu ([link: https://pt.wikipedia.org/wiki/Inhambu-chororó] Crypturellus parvirostris).
 akogo i [IPA] LEX. tarumãzeiro, árvore de tarumã. ([link: https://pt.wikipedia.org/wiki/Vitex_megapotamica]Vitex megapotamica) [image: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Vitex_montevidensis.JPG/960px-Vitex_montevidensis.JPG]
 akogo kuru [IPA] LEX. refresco de tarumã.
-akogo1 [aˈkogo] LEX. tarumã; verruga (por semelhança com a fruta).
+akogo1 [aˈkogo] LEX. tarumã; verruga (por semelhança com a fruta). [image: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Vitex_montevidensis.JPG/960px-Vitex_montevidensis.JPG]
 akogo2 [aˈkogo] LEX. voz (de bichos).
 akogodo (akogodu) [IPA] LEX. falar baixo.
 akogodu [akoˈgodːɯ] LEX. canto das aves, cantar (as aves).
@@ -204,13 +200,13 @@ akudoda [akudodːa] LEX. lugar onde se limpa, lugar onde se esfria (geladeira).
 akudodurewu PPASS. [IPA] S. limpo, varrido, esfriado.
 akudurewu PPASS. [IPA] S. o que foi criado.
 akurara (pl. akuraroe) [IPA] LEX. pacu-peba.
-akuriri [akuriɾi] LEX. brisa, ventilação produzida pelo movimento de algum objeto, remexer de algo.
+akuriri [akuriɾi] LEX. brisa, ventilação.
 akuriri epa [IPA] LEX. ventilador.
 akurirido [akuriridːʌ] LEX. ventilar, desordenar, remexer.
 akuru [akuɾu] LEX. vento, trajetória, pulo, salto, ato de expirar (morrer), morrer, passar, nadar, voar.
 akurudo [akurudːʌ] LEX. abanar, produzir vento, fazer pular, fazer morrer, atirar (flecha).
 akurudoda [akuruˈdodːa] LEX. lugar onde se produz vento, lugar de pulo, lugar de pouso.
-akurudodu [akuruˈdodːɯ] PPASS. pulado, matado, atirado, pousado.
+akurudodu [akuruˈdodːɯ] PPASS. pulado, atirado, pousado.
 akurugudu [akuruˈgudːɯ] LEX. limpo, puro, limpar, purificar.
 akurugududo [akurugududːʌ] VC. limpar, purificar.
 akó kugu [IPA] LEX. mingau da coco de bocaiúva.
@@ -219,10 +215,10 @@ amagadu [amagadːɯ] LEX. mexida, agitação, palpitação, tremor; mexer, treme
 amagadudo [amagadudːʌ] VC. fazer tremer, fazer mexer, agitar.
 amagadurewu [amagadːuˈɾewu] S. o que é mexido; o que caça.
 amarewu [amaˈɾewu] LEX. bom, abundante.
-amema [amemːa] LEX. teiú (grande lagarto).
+amema [amemːa] LEX. teiú (grande lagarto). (família[link: https://pt.wikipedia.org/wiki/Teiú]Teiidae) [image: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Tupinambis_merianae_Pantanal.jpg/960px-Tupinambis_merianae_Pantanal.jpg]
 ami [amːi] LEX. amontoamento, mastigação.
 amigi (pl. amige) [IPA] LEX. peixe cachorro (também denominado aragorwu).
-amirewu [amiˈɾewu] S. pão, bolos feitos de substâncias apiloada. [audio: audio/bread.wav]
+amirewu [amiˈɾewu] S. pão, bolo. [audio: audio/bread.wav]
 amo (pl. amoe) [IPA] LEX. tapiti, roedor, coelho.
 amodu [amodːɯ] LEX. velhice, estar velho.
 amodugodu [amoduˈgodːɯ] LEX. começar a envelhecer, esta usado.
@@ -259,7 +255,7 @@ aobiri [aobiɾi] LEX. couro cabeludo.
 aobirireboe [aobirireboe] LEX. sutil camada que se forma na superfície livre dos líquidos em descanso, nata.
 aoboarewu [aoboaˈɾewu] S. rebitado.
 aogado (to ao kae) [IPA] LEX. erguer, levanta. suspender.
-aogeje [aogedʒːe] POSP.c. em cima, sobre.
+aogeje [aogedʒːe] POSP. em cima, sobre.
 aogigiri [aogiˈgiɾi] LEX. cabelo crespo, encarapinhado, ondulado.
 aokajeje [aokajedʒːe] POSP. rodeando por cima.
 aokeje (aogeje) [IPA] POSP. sobre.
@@ -272,7 +268,7 @@ aoporirewu [aoporiˈɾewu] S. redondo.
 aora [aoɾa] LEX. cabeça. [audio: audio/head.wav]
 aora ra [IPA] LEX. crânio
 aora tugu VT. mergulho; mergulhar.
-aora tugudu [IPA] LEX.[IPA] PPASS. mergulho.
+aora tugudu [IPA] LEX. mergulho.
 aora tugudurewu [IPA] S.part. mergulhador.
 aorarewu [aoraˈɾewu] S. ladrão, mentiroso, aquele que tem gênio ruim, bandido.
 aotadawu [aotadawu] LEX. chapéu; qualquer enfeite de cabeça.
@@ -312,7 +308,7 @@ aredurogu [aɾeduˈɾogu] LEX. menina, filha, boneca, nome dado à sobrinha ou �
 arege (pl. de are) [IPA] LEX. possuidore.
 arego trazer, fazer chegar, buscar.
 aregoda [aɾegodːa] LEX. lugar onde se traz, onde se chega.
-aregodu [aɾeˈgodːɯ] LEX. chegada, chegar.
+aregodu [aɾeˈgodːɯ] LEX. chegada, chegar. -- itaregoduwo = para eu chegar [audio: audio/live.wav]
 aregodurewu [IPA] S. aquele que chega.
 areia [aɾeia] LEX. lugar de saltar, trampolim.
 arerewu [aɾeˈɾewu] S. pulador, possuidor.
@@ -405,29 +401,28 @@ arugodu [aɾuˈgodːɯ] LEX. fragilidade, magreza, respeito.
 arugodurewu [aɾugoduˈɾewu] S. frágil, magro, delicado, respeitoso, ressequido.
 arugogo [aɾugogo] LEX. fragilidade excessiva, muita magreza; ser muito frágil, muito magro.
 arugu [aɾugu] LEX. broto de palmeira entreaberto, transparência, lucidez, delgadeza.
-arugudo [aɾugudːʌ] LEX. afinar, adelgaçar, tornar transparente.
-arugudodu PPA[IPA] S. afinado, adelgaçado.
-arurewu [aɾuˈɾewu] S. o frágil, o ressequido.
-aró INTJ. indica maravilha.
+arugudo [aɾugudːʌ] LEX. afinar, tornar transparente.
+arugudodu PPA[IPA] S. afinado.
+arurewu [aɾuˈɾewu] S. frágil.
+aró [aˈɾɔ] INTJ. indica maravilha.
 ataga [ataga] LEX. manteação.
 atagado [atagadːʌ] LEX. mantear.
 atagadoda [atagadodːa] LEX. lugar de manteação.
 atagadodu PPA[IPA] S. manteado.
-atagara biegarewu [IPA] S. rádio (osso menor do ante-braço). [image: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Illu_upper_extremity.svg/langpt-500px-Illu_upper_extremity.svg.png]
-atagara kurirewu [IPA] S. cúbito (osso maior do ante-braço). [image: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Illu_upper_extremity.svg/langpt-500px-Illu_upper_extremity.svg.png]
+atagara biegarewu [IPA] S. rádio (osso do ante-braço). [image: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Illu_upper_extremity.svg/langpt-500px-Illu_upper_extremity.svg.png]
+atagara kurirewu [IPA] S. cúbito (osso do ante-braço). [image: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Illu_upper_extremity.svg/langpt-500px-Illu_upper_extremity.svg.png]
 atamo (tamo) [IPA] LEX. variedade de grande arraia.
-atamo ó (tamo ó) [IPA] LEX. ferrão da cauda de arraia (usado como arma de luta).
+atamo ó [ˈtamːo ˈɔ] LEX. ferrão da cauda de arraia (usado como arma de luta).
 ataro (otaro) [IPA] LEX. espuma produzida pela ebulição de algum líquido (a espuma dos rios denomina-se padaro).
 ataro (vrt. otaro) [IPA] LEX. espuma.
 atoe [atoe] LEX. bicheira.
 atu (pl. atuie) [IPA] LEX. endocarpo de coco, concha grande, pequena cerâmica em forma de concha, cápsula de semente de tabaco, caroço de piqui, caroço de manga, cartucho, colher, bala.
 atu meriri [IPA] LEX. colher de metal.
 atubo [atubo] LEX. Cetus (constelação).
-atubo [atubo] LEX. veado galheiro, cervo.
+atubo (pl. atuboe) [atubo] LEX. veado galheiro, cervo.
 atubo biri [IPA] LEX. tapete de pele de veado galheiro.
 atubo burea [IPA] LEX. pegada de veado galheiro.
-atuboe (pl. de atubo) [IPA] LEX. veado.galheiro.
-atudu [atudːɯ] LEX. pu.
+atudu [atudːɯ] LEX. pus.
 atuge [atuge] LEX. marimbondo, abelha. [audio: audio/bee.wav]
 atuge ewari [IPA] LEX. casa de marimbondo.
 atugo [atugo] LEX. malha, pinta, desenho, pintura, tatuagem, escritura.
@@ -757,7 +752,7 @@ betu [betu] LEX. doçura, qualidade do que é doce.
 betudo [betudːʌ] LEX. adoçar.
 betureboe [betureboe] LEX. doce, alimento doce, coisa doce.
 beturewu [betuˈɾewu] S. doce, o que é doce
-bi [bi] LEX. morte, desmaio, tristeza, secura; morrer, desmaiar-se, murchar. [audio: audio/die.wav]
+bi [bi] LEX. morte, morrer. -- iwiwo = para eu morrer [audio: audio/die.wav]
 bi bokwarewu [IPA] S. o que não está morto, o que custa morrer.
 bia [bia] LEX. orelha, dificuldade, ocultação.
 bia butu (biabutu) [IPA] LEX. lembrança, recordação; lembrar, recordar.
@@ -781,12 +776,11 @@ biagiri [biaˈgiɾi] LEX. grande dificuldade: biagirikare (não é difícil
 biagirido [biagiridːʌ] LEX. tornar muito difícil, esconder bem.
 biagirirewu part. o dificílimo, o bem escondido.
 biagodu [biaˈgodːɯ] LEX. esquecimento, olvido; esquecer (+ piji
-biagodudo [biagodudːʌ] LEX. fazer esquecer.
-biagodudo [biagodudːʌ] LEX. fazer esquecer.
+biagodudo [biagodudːʌ] VC. fazer esquecer.
 biagodurewu [biagoduˈɾewu] S. o que esquece.
 biagogo VT. esmagamento, machucadura.
 biagogodo [biagoˈgodːʌ] LEX. esmagar.
-biaja [biajːa] LEX. orifício externo do conduto auditivo. Ouvido. [audio: audio/ear.wav]
+biaja [biajːa] LEX. Ouvido. [audio: audio/ear.wav]
 biaja bokwa [IPA] LEX. surdez, teimosia.
 biaja bokwado [IPA] VC. tornar surdo, ensurdecer.
 biaja bokwarewu [IPA] S. surdo, teimoso.
@@ -794,7 +788,7 @@ biajetu VT. lembrança, recordação; lembrar, recordar.
 biaku (boe aku) [IPA] LEX. frio, tempo frio.
 biaku rirewu [IPA] S. gelo.
 biakuru [biakuɾu] LEX. lembrar. iwiakurure 'eu lembrei'.
-biapaga [biapaga] LEX. atenção, escuta; prestar atenção, escutar.
+biapaga [biapaga] LEX. atenção, escuta; prestar atenção, escutar. -- iwiapagawo = para eu ouvir [audio: audio/listen.wav]
 biaporo [biapoɾo] LEX. furo do lóbulo da orelha.
 biarewu [biaˈɾewu] S. difícil, oculto.
 biarewudo [biarewudːʌ] LEX. dificultar.
@@ -864,7 +858,7 @@ birikedodo [birikedodːʌ] LEX. despir, descascar, depenar.
 birimodurewu [birimoduˈɾewu] S. o que tem pele bonita
 birirewu [biriˈɾewu] S. que tem pele, que tem casca.
 biritowu [biritowu] LEX. carrapato.
-bito [bito] LEX. matar. [audio: audio/kill.wav]
+bito [bito] VC. matar. [audio: audio/kill.wav]
 bitoda [bitodːa] LEX. lugar da matança.
 bitodu [bitodːɯ] PPASS. matado.
 bitodurewu [bitoduˈɾewu] PPASS. aquele que foi matado, o que foi abatido.
@@ -898,7 +892,7 @@ boce kodi! [IPA] ADV. quase!, faltou pouco, por pouco.
 boda [bodːa] LEX. lugar onde se racha algo.
 bodu [bodːɯ] PPASS. rachado, partido.
 bodurewu [boduˈɾewu] PPASS. o rachado.
-boe [boe] LEX. coisa, índio bororo, gente em geral, tempo.
+boe [boe] LEX. coisa, bororo, gente, tempo, paisagem. -- boe motunure = a paisagem é/era bonita; Boe eture = os Bororo vieram
 boe akodu [IPA] LEX. (tempo fresco): de tardinha, de tarde.
 boe aku (biaku) [IPA] LEX. (tempo frio); frio, friagem.
 boe aku [IPA] LEX. (coisa limpa): clareira.
@@ -914,9 +908,9 @@ boe bia [IPA] LEX. segredo.
 boe biarewu [IPA] S. segredo.
 boe bido [IPA] VC. fazer silêncio, silenciar.
 boe birewu [IPA] S. aquilo que é silencioso, tranqüilo, seco.
-boe bo [IPA] LEX. penas, pluma.
+boe bo [IPA] LEX. penas, pluma. [audio: audio/father01.wav]
 boe butu (boebutu) [IPA] LEX. capim, pastagem.
-boe co (boeco) [IPA] LEX. noite, escuridão.
+boe co [IPA] LEX. noite, escuridão. -- boe co ji = à noite/de noite [audio: audio/night.wav]
 boe codu [IPA] LEX. noite.
 boe codugodu [IPA] LEX. anoitecer, escuridade iminente.
 boe eejiwu [IPA] LEX. pintura facial.
@@ -1500,8 +1494,7 @@ epae [epae] LEX. feridas, chagas, sofrimentos, doença, enfermidade, remédio.
 epaedo (ucebaedo) [IPA] LEX. ferir, medicar.
 epaerewu [epaeˈɾewu] S. o ferido, o chagado.
 epariwa i [IPA] LEX. pa.chicote.
-era (iera) [IPA] LEX. mão. [image: https://upload.wikimedia.org/wikipedia/commons/9/92/Gray1234.png] [audio: audio/hand.wav]
-era (iera) [IPA] LEX. pulso.
+iera [IPA] LEX. mão. [image: https://upload.wikimedia.org/wikipedia/commons/9/92/Gray1234.png] [audio: audio/hand.wav]
 era (iera) perabiji [IPA] LEX.[IPA] POSP. parte inferior do arco.
 era (iera) uporu [IPA] LEX. dorso da mão.
 era akemo (iera akemo) [IPA] LEX. desejo de vingar.
@@ -1548,14 +1541,14 @@ eregejeje [eɾegejedʒːe] LEX. variedade de pica pau.
 erodo [eɾodːʌ] LEX. tornar esperto, tornar ativo, tornar prático, tornar astuto
 erogwa gori [IPA] LEX. fuligem.
 erogwaiwo [eɾogwaiwo] LEX. tipo de prego ornamental
-eru [eɾu] LEX. língua. [audio: audio/tongue.wav]
+eru [eːɾu] LEX. língua. [audio: audio/tongue.wav]
 eru kabi VT. lamber.
 eru kigadu [IPA] LEX. afta, sapinho.
 erubaru [eɾubaɾu] LEX. base da língua.
 erubaru okea [IPA] LEX. por baixo da língua.
 erubo (jorubo) [IPA] LEX. doença, epidemia, estrepe, remédio, veneno, vegetal mágico, feitiço.
 erubodu [eɾubodːɯ] LEX. virar às avessas
-erudiwa [eɾdiwa] LEX. sabedoria, saber [audio: audio/know.wav]
+erudiwa [eɾdiwa] LEX. sabedoria, saber --ioruduwawo = para eu saber [audio: audio/know.wav]
 erudu [eɾdːɯ] LEX. visão, ver.
 erududo [eɾdudːʌ] VC. fazer ver, mostrar.
 eruduwa [eɾduwa] LEX. sabedoria, conhecimento; saber, conhecer. [audio: audio/know.wav]
@@ -1755,16 +1748,15 @@ icoru pa [IPA] LEX. segurança, confiança, esperança, refúgio; ikijoru panure
 icoru pa [IPA] LEX.s segurança, confiança, esperança, refúgio; ikijoru pa nure paoce (Deus é minha segurança)
 icoru ra [IPA] LEX. omoplata, escápula.
 icá (vrt. de ca!) [IPA] INTJ. eis! toma!
-ie [ie] LEX. nome, chamamento; chamar-se.
+ie [ie] LEX. nome, ter nome (chamar-se) -- akiere João = teu nome é João
 ie bio [IPA] LEX. alcunha, apelido, ou segundo nome dado por ocasião de algum mori.
-iedo [iedːʌ] LEX. dar nome. (Sobre o ritual da imposição do nome cf. EBI, na expressão.
+iedo [iedːʌ] LEX. dar nome.
 iegi VT. declarar o nome.
 iei! INTJ. indica dor.
 iemagu (ciemagu) [IPA] LEX. dança em passinhos e avançando de lado, ou de frente ou para trás, quase arrastando os pé[IPA] LEX.
 iemagudurewu [IPA] S. o que dança.
 iemaru (jemaru) [IPA] LEX. tristeza, procura, busca; procurar, buscar.
-iera (era) [IPA] LEX. mão.
-iera akemo [IPA] LEX. desejo de vingar, desejo.
+iera akemo [IPA] LEX. desejo de vingança.
 iera amo [IPA] LEX. trata.
 iera iwori [IPA] LEX. fazer economia, poupar, guardar.
 iera jodo [IPA] VC. empurrar.
@@ -1851,7 +1843,8 @@ inoba boe dukeje ba? expr. [IPA] ADV. quando?
 inoba.ba pron.int. quantos?.
 inodu pl. conj. como, semelhante, parecido, igual.
 inodu pl.(none) conj. como, semelhante, parecido, igual.
-inogi (inegi) [IPA] LEX. designação de cada uma das unhas das mãos e de seu conjunto.
+inegi [IPA] LEX. unha, garra. [audio: audio/claw.wav]
+inogi [IPA] LEX. unha, garra. [audio: audio/claw.wav]
 inogido [inogidːʌ] LEX. coçar, arranhar, espichar, estender.
 inoi (tuginoi) [IPA] LEX. Solidão, sozinho.
 inokuri [inokuɾi] LEX. tat.bola, tatuzinho do cerrado.
@@ -1947,7 +1940,7 @@ itoru [itoɾu] LEX. pescoço. [audio: audio/neck01.wav]
 itoru bo [IPA] LEX. plumas que cobrem o pescoço das ave.
 itoru ra [IPA] LEX. vértebras cervicais, ossos do pescoço.
 itowuia [itowuia] LEX. ombro. Ver <i>kanao kanaora</i>.
-itowuia ra [IPA] LEX. úmero, músculo do braço.
+itowuia ra [IPA] LEX. úmero, músculo do braço. [audio: audio/nape01.wav]
 itua [itua] LEX. bondade, esmero, calma.
 ituarewu [ituaˈɾewu] S. aquele que faz bem, que age com calma, que trabalha com esmero.
 itudu [itudːɯ] LEX. sumo de genipapo.
@@ -2489,7 +2482,7 @@ jorubokuru epa [IPA] LEX. médico, enfermeiro, curandeiro. [image: https://uploa
 jorubutu [dʒorubutu] LEX. estação das queimadas, estação da seca, ano, aniversário.
 jorubutu [IPA] LEX. estação das queimadas, estação da seca.
 jorucira [dʒoruciɾa] LEX. fósforo. [imgae: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Streichholz.jpg/500px-Streichholz.jpg]
-jorudu (jordu erudu erdu) [IPA] LEX. visão, sabedoria, conhecimento, entendimento, ensinamento, instrução, estima, previsão do futuro.
+jorudu (jordu erudu erdu) [IPA] LEX. visão, sabedoria, conhecimento; saber, ver, conhecer. -- ioruduwo = para eu saber [audio: audio/see.wav]
 jorudu (jorudu) [IPA] LEX. ver.
 jorudu [dʒorudːɯ] LEX. visão, sabedoria, conhecimento, ensinamento.
 jorudu iwa [jorduwa] [IPA] LEX. sabedoria, conhecimento, saber, aprender, conhecer.
@@ -2900,11 +2893,11 @@ kiwuje (ki) VT. desatar, desligar, soltar.
 kiwujedu PPART. desatado, solto, desligado.
 kiwujedurewu [kiwujeduˈɾewu] S. o desatada. o solto, o desligado.
 ko1 [kɔ] LEX. mau cheiro, fedor; cheirar mal.
-ko2 [ko] [IPA] LEX. pedra de alisar flecha.
-ko3 [ko] [IPA] LEX. pescoço, parte alta de algo; altura; profundidade.
-ko4 [ko] [IPA] LEX. profundidade; ser profundo.
+ko2 [ko] LEX. pedra de alisar flecha.
+ko3 [ko] LEX. pescoço, parte alta de algo; altura; profundidade.
+ko4 [ko] LEX. profundidade; ser profundo.
 ko5 (vrt. de kodudo) VT. levar, acompanhar, fazer ir.
-ko6 (vrt. kowuje) VT. comer, morder
+ko6 [ko] VT. comer. Ver <i>kowuje</i>.
 ko7 [ko] ADV. forma que indica rapidez, iminência.
 ko8 VT. som, fala, falar, contar.
 koadu [koadːɯ] LEX. limpeza, simplicidade, celibato; simples, limpo, solteiro.
@@ -3108,11 +3101,10 @@ korugirido [korugiridːʌ] LEX. engrandecer, ampliar.
 korugirikarewu [korugirikaˈɾewu] LEX. miúdo, pouco.
 korugirirewu [korugiriˈɾewu] S. o grande, o ampliado.
 kowai (koai) [IPA] LEX. embaúba.
-kowodu (kowodu) [IPA] LEX. esforço; contínuo.
-kowodu (kówódu) [IPA] LEX. esforço; contínuo.
+kowodu [kówódu] LEX. esforço, contínuo.
 kowodudo [kowodudːʌ] LEX. esforçar; fazer continuar.
 kowodurewu [kowoduˈɾewu] S. esforçado, o que faz esforço, o que continua.
-kowu (kówu) VT. assar, queimar.
+kowu [IPA] VT. assar, queimar.
 kowuda [kowudːa] LEX. lugar onde se assa ou se queima algo.
 kowudu PPART. assado, queimado.
 kowudurewu [kowuduˈɾewu] S. o assado, o queimado.
@@ -3172,7 +3164,7 @@ kudorowo [kudorowo] LEX. variedade de peixe das lagoas, variedade de cascudo.
 kudoru [kudoɾu] LEX. tubérculo comestível.
 kudu [kudːɯ] LEX. fronte, sumidade, parte alta de qualquer coisa.
 kudu [kudːɯ] LEX. grito, som, toque.
-kudu [kudːɯ] LEX. líquido, bebida, farinha; tomar, beber. [audio: audio/drink.wav]
+kudu [kudːɯ] LEX. líquido, bebida; beber. -- ikuduwo = para eu beber [audio: audio/drink.wav]
 kudu kado VT. aparar os cabelos da fronte.
 kudu meriri [IPA] LEX. piaçoca, jaçanã  ([link: https://pt.wikipedia.org/wiki/Jaçanã] Jacana jacana).
 kududo [kududːʌ] VC. fazer beber; fazer farinha.
@@ -3306,7 +3298,7 @@ kukuri [kukuɾi] LEX. Carrapato do chão.
 kumara [kumaɾa] LEX. variedade de pimentinha silvestre; pimenta.
 kumere [kumeɾe] LEX. margem do rio numa curva.
 kumo [kumːo] LEX. variedade de cupim do cerrado, denominado também boku mogodoge.
-kunabo [kunabo] LEX. umbigo. [audio: audio/belly_button01.wav]
+kanabo [kanabo] LEX. umbigo. [audio: audio/belly_button01.wav]
 kunaga [kunaga] LEX. fruta seca sem madurar bem; indivíduo defeituoso, pessoa baixa.
 kuno [kunːo] LEX. papagai.campeiro.
 kuno VT. alimentar, dar comida. (Ver: kunuda
@@ -3736,10 +3728,10 @@ meriri kujagurewu [IPA] S. cobre.
 meriri kuru [IPA] LEX. vidro, garrafa (metal líquido).
 meriri mako rakarewu [IPA] LEX. altofalante.
 meriri rerewu [IPA] S. carro, caminhão (metal que corre).
-meriri tugu [IPA] LEX. injeção (inserção de metal).
+meriri tugu [IPA] S. injeção (inserção de metal).
 meriri ururewu [IPA] S. metal quente.
 meririku [meririku] LEX. arame, fio de metal.
-meru [meɾu] LEX. caminho, marcha, caçada, viagem; andar, caçar, viaja. [audio: audio/walk.wav]
+meru [meɾu] LEX. caminho, marcha, caçada, viagem; andar, caçar, viaja. -- imeruwo = para eu caminhar [audio: audio/walk.wav]
 meru [meɾu] LEX. variedade de raia.
 meru ó [IPA] LEX. ferrão de arraia, usado como arma de briga.
 merudo [merudːʌ] VC. fazer caminhar, fazer caçar, fazer viajar.
@@ -3772,7 +3764,6 @@ micege [micege] LEX. formiga de fogo.
 mici [micːi] LEX. variedade de cará comestível.
 micigi [micigi] LEX. ponta, extremidade pontiaguda, lisura, superfície lisa.
 micigira [micigiɾa] LEX. nervura do folíolo de palmeira.
-micigirewu [micigiˈɾewu] LEX. o pontiagudo, o liso.
 micigirewu [micigiˈɾewu] S. o pontiagudo, o liso.
 micigu [micigu] LEX. pequeno cesto, embornal, pequena bolsa.
 micira (kimicira) [IPA] LEX. peneira.
@@ -3801,7 +3792,7 @@ mokodurewu [mokoduˈɾewu] S. aquele que sofre de azia.
 mokuiao [mokuiao] LEX. carrapato.
 mokurara [mokuraɾa] LEX. tesourinha (ave
 mokureabo uiorubo [IPA] LEX.s capim do cerrado usado como remédio para fazer andar as criança.
-mokuro [mokuɾo] LEX. seio; gema dos vegetai.
+mokuro [mokuɾo] LEX. seio. [audio: audio/breast_female.wav]
 mokuro kuru [IPA] LEX. leite de mamífero.
 momo [momːo] LEX. região lombar.
 mono [monːo] LEX. s idiotice, estupidez, bobice, tristeza, triste.
@@ -3901,7 +3892,6 @@ nududo [nuˈdudːʌ] VC. fazer dormir.
 nududodu [nududodːɯ] PPASS. feito dormir.
 nudugo [nuˈdugo] LEX. adormecer, conciliar o sono.
 nudugodu [nuduˈgodːɯ] LEX. estar para dormir, sono incipiente, cochilo, cochilar.
-nudurewu [nuduˈɾewu] LEX. aquele que dorme.
 nudurewu [nuduˈɾewu] S. aquele que dorme.
 nugo [nugo] LEX. conciliar o sono.
 nugodu [nuˈgodːɯ] LEX. sono incipiente, estar para dormir.
@@ -3914,10 +3904,10 @@ o kodu [IPA] LEX. pericárpio do coco.
 o pega (pega) [IPA] LEX. avô.
 o ra [IPA] LEX. região sagrada.
 o1 (vrt. na ne no) [IPA] LEX. ponta, coco, cauda de mamífero.
-o2 [ɔ] LEX. dente, frente, saliência, broto de taquara. [audio: audio/tooth.wav]
+o2 [ɔ] LEX. dente, broto de taquara. [audio: audio/tooth01.wav]
 o3 [o] LEX. pai.
 o4 [o] LEX. propriedade.
-o5 [o] LEX. rabo, cauda. [audio: audio/tail.wav]
+o5 [o] LEX. rabo, cauda. [audio: audio/tail01.wav]
 obe (wobe) [IPA] LEX. parente, membro do mesmo clã; cônjuge.
 obedodu (uwobedodu) [IPA] PPASS. casado.
 obedodurewu (uwobedodureu) [IPA] PPASS. o casado.
@@ -4100,17 +4090,15 @@ okwagururewu [okwaguruˈɾewu] S. aquele que roga pragas, aquele que pede.
 okwairu [okwaiɾu] LEX. gulodice; informação, relato.
 okwairudo [okwairudːʌ] VC. fazer gula; informar, relatar.
 okwairurewu [okwairuˈɾewu] S. o guloso, o que informa, o que relata.
-okwajodo [okwajodːʌ] LEX. chupada, chupar; tratamento de cura feito pelo bari (benzedor) ou pelo aroe etawara are (xamã)
+okwajodo [okwajodːʌ] LEX. chupada, chupar; tratamento de cura feito pelo <i>bari</i> ou pelo <i>aroe etawara are</i>
 okwakiari [okwakiaɾi] LEX. o que não gosta de falar.
-okwakido [okwakidːʌ] LEX. falador, tagarela; alcunha dado ao nã.índio.
+okwakido [okwakidːʌ] LEX. falador, tagarela; não-indígena.
 okwakidu [okwakidːɯ] LEX. egoísmo, ambição, retraimento, reserva.
-okwakidudo [okwakidudːʌ] LEX.refl. ser egoísta, retrai.se, ser reservado.
-okwakidurewu [okwakiduˈɾewu] LEX. o egoísta, o retraído, o reservado.
+okwakidudo [okwakidudːʌ] LEX.refl. ser egoísta, retrair-se, ser reservado.
 okwakidurewu [okwakiduˈɾewu] S. o egoísta, o retraído, o reservado.
 okwakori [okwakoɾi] LEX. altercar, discutir, brigar de palavra, murmurar.
 okwakowodu [okwakowodːɯ] LEX. insistência; insistir.
 okwakowodudo [okwakowodudːʌ] LEX. insistir.
-okwakowodurewu [okwakowoduˈɾewu] LEX. aquele que insiste.
 okwakowodurewu [okwakowoduˈɾewu] S. aquele que insiste.
 okwakugu [okwakugu] LEX. comer alguma coisa ensopada em algum líquido.
 okwakuridodu [okwakuridodːɯ] LEX. grito, pedido com grito.
@@ -4119,16 +4107,15 @@ okwamagudu [okwamagudːɯ] LEX. pedido, súplica.
 okwamagudurewu [okwamaguduˈɾewu] LEX. aquele que pede, que suplica.
 okwamagudurewu [okwamaguduˈɾewu] S. aquele que pede, que suplica.
 okwamie [okwamie] LEX. faixa íntima das mulheres usada durante o puerpério; pequeno tapete preto destinado a receber a criança recém nascida.
-okwamotodoge [okwamotodoge] LEX. abelhas paa de mel.
-okwamu [okwamːu] LEX. sopro, soprar.
+okwamotodoge [okwamotodoge] LEX. abelha (espécie).
+okwamu [okwamːu] LEX. sopro, soprar. [audio: audio/inflate.wav]
 okwamu i [IPA] LEX. jequitibá.
-okwamudoge aroe [IPA] LEX. Designação de um tipo de representação e de seus atore.
+okwamudoge aroe [IPA] LEX. Uma representação ritual e seus atores.
 okwamudu [okwamudːɯ] LEX. sopro; soprar.
 okwamududo [okwamududːʌ] VC. fazer soprar.
 okwamudurewu [okwamuduˈɾewu] S. aquele que sopra.
 okwamuwu [okwamuwu] LEX. lábio inferior.
 okwapagado [okwapagadːʌ] VC. experimento, degustação, experiência, prova; provar, degustar.
-okwapagarewu [okwapagaˈɾewu] LEX. o que prova, o que degusta, o que experimenta.
 okwapagarewu [okwapagaˈɾewu] S. o que prova, o que degusta, o que experimenta.
 okwapegado (togwapegado) [IPA] LEX. falar mal, maldizer, jogar praga
 okwareboe [okwareboe] LEX. coisa transitória; acontecimento de breve duração, coisa que logo desaparece, caduco.
@@ -4138,7 +4125,6 @@ okwari [okwaɾi] LEX. riso, pedido, oferta; rir, pedir, ofertar. [audio: audio/l
 okwarido [okwaridːʌ] VC. fazer rir, fazer pedir, oferecer aos espírito.
 okwaridodu [okwariˈdodːɯ] PPASS. feito rir, feito pedir, feito oferecer.
 okwarigodu [okwariˈgodːɯ] LEX. sorriso; sorrir.
-okwarigodurewu [okwarigoduˈɾewu] LEX. aquele que sorri; bandido, ladrão.
 okwarigodurewu [okwarigoduˈɾewu] S. aquele que sorri; bandido, ladrão.
 okwarigudu [okwarigudːɯ] LEX. mentira; mentir.
 okwarigudurewu [okwariguduˈɾewu] S. o mentiroso, malandro.
@@ -4273,56 +4259,55 @@ otoi [otoi] POSP. diante, em frente, adiante.
 otoibo [otoibo] LEX. obtusidade.
 otoibodo [otoibodːʌ] VC. fazer obtuso, virar uma ponta.
 otoiborewu [otoiboˈɾewu] LEX. o obtuso, o despontado.
-otojeto [otojeto] LEX. acender.
-otojeto [otojeto] LEX.def. acender.
-otojetodu PPART. aceso.
+otojeto [otojeto] VC. acender.
+otojetodu [IPA] PPAS. aceso.
 otojetodurewu [otojetoduˈɾewu] S. o aceso.
 otokodu [otokodːɯ] LEX. miolo de certos frutos que têm caroço central, e de certos vegetais; resto de comida que fica na parede das panela.
 otomu (todomu) [IPA] LEX. abraço, abraçar.
 otomudu [otomudːɯ] LEX. abraço, abraçar.
 otomudurewu [otomuduˈɾewu] S. aquele que abraça.
 otomudurewu aquele que abraça.
-otoraga (otoroga) [IPA] LEX. afastamento, retirada, cuidado, atenção; penitência, jejum, sacrifício.
-otoragado (otorogado) [IPA] LEX. fazer cuidar, fazer penitência.
+otoraga (otoˈroga) [IPA] LEX. afastamento, retirada, cuidado, atenção; penitência, jejum, sacrifício.
+otoragado (otoroˈgado) [IPA] LEX. fazer cuidar, fazer penitência.
 otoragarewu [otoragaˈɾewu] S. aquele que cuida, que atende.
 otoredu PPART. ciscado das aves; o bicudo, o pontiagudo.
-otorigi [otorigi] LEX. o ponto mais alto, aresta.
-otorodu [otorodːɯ] LEX. montículo.
-otorodudo [otorodudːʌ] LEX. amontoar.
+otorigi [otoˈrigi] LEX. o ponto mais alto, aresta.
+otorodu [otoˈrodːɯ] LEX. montículo.
+otorodudo [otoroˈdudːʌ] LEX. amontoar.
 otorodurewu [otoroduˈɾewu] S. o amontoado.
-ototori ekurewu [IPA] S. pintassilgo (chupim amarelo).
+ototori ekurewu [IPA] S. pintassilgo [link: https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/PINTASSILGO_%28_Carduelis_magellanica_%29.jpg/560px-PINTASSILGO_%28_Carduelis_magellanica_%29.jpg]Spinus magellanicus [image: https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Gold_Finch.jpg/500px-Gold_Finch.jpg]
 otowi [otowi] LEX. lentidão, vagar.
 otowido [otowidːʌ] VC. fazer com lentidão, com vagar.
 otowirewu [otowiˈɾewu] S. o lento, o vagaroso.
 otowu [otowu] LEX. designação de vários graus de parentesco; cunhado.
-otowubo VT. levantamento, levantar.
-otowubodu [otowubodːɯ] LEX. levantamento.
-otowubodudo [otowubodudːʌ] VC. fazer levantar.
+otowubo [IPA] VT. levantamento, levantar.
+otowubodu [otowuˈbodːɯ] LEX. levantamento.
+otowubodudo [otowuboˈdudːʌ] VC. fazer levantar.
 otowubodurewu [otowuboduˈɾewu] S. o que foi levantado.
 otowuborewu [otowuboˈɾewu] S. levantado.
 owarudo (towarudo) [IPA] LEX.refl. esquentar-se.
-oweari [oʋeaɾi] LEX. vômito, vomitar. [audio: audio/vomit.wav]
-owearido [owearidːʌ] VC. fazer vomitar.
-owó INTJ. forma forma que indica maravilha, agradecimento.
+oweari [oʋeˈaɾi] LEX. vômito, vomitar. [audio: audio/vomit.wav]
+owearido [oweaˈridːʌ] VC. fazer vomitar.
+owó [IPA] INTJ. forma forma que indica maravilha, agradecimento.
 pa  [IPA] VT. perceber, conhecer, entender. Ver <i>pawuje</i>.
-pa kae [IPA] LEX. [IPA] POSP. no lugar de.
-pa= [IPA] IP. 1.pl.incl. nós; nos; nosso, nossa, nossos, nossa. Inclui o(s) ouvinte(s).
-pa? [IPA] ADV.int. onde está?, cadê?.
-pabogo [pabogo] LEX. vead.mateiro ou vead.pardo.
-padado [padadːʌ] LEX. colocar isca numa armadilha.
-padagu [padagu] LEX. fruta de pateiro.
-padagí (padagu i) [IPA] LEX. pateiro, árvore da floresta.
-padaro [padaɾo] LEX. espuma dos rio.
-padarogwa [padarogwa] LEX. beleza, pintura.
+pa kae POSP. no lugar de.
+pa= [pa] IP. índice preso de 1.PL.INCL. nós; nos; nosso, nossa, nossos, nossa. Inclui o(s) ouvinte(s).
+pa? [IPA] ADV. onde está?, cadê?
+pabogo [paˈbogo] LEX. vead.mateiro ou vead.pardo.
+padado [paˈdadːʌ] LEX. colocar isca numa armadilha.
+padagu [paˈdagu] LEX. fruta de pateiro.
+padagí (paˈdagu i) [IPA] LEX. pateiro, árvore da floresta.
+padaro [paˈdaɾo] LEX. espuma dos rio.
+padarogwa [padaˈrogwa] LEX. beleza, pintura.
 padarogwarewu [padarogwaˈɾewu] LEX. o belo, o pintado, o bem ornado.
-padodu [padodːɯ] PPASS. colocado.
-padu [padːɯ] LEX. estar, ficar, estar deitado.
+padodu [paˈdodːɯ] PPASS. colocado.
+padu [ˈpadːɯ] LEX. estar, ficar, estar deitado.
 padudo (pado) [IPA] LEX. fazer deitar, colocar deitada alguma coisa.
-padudodu [padudodːɯ] PPASS. colocado deitado, feito deitar.
+padudodu [paduˈdodːɯ] PPASS. colocado deitado, feito deitar.
 padurewu [paduˈɾewu] S. o deitado.
-paga [paga] LEX. córrego, riacho.
-paga [paga] LEX. espera; esperar.
-paga [paga] LEX. mentira, engano, inutilidade, .toa.
+paga1 [ˈpaga] LEX. córrego, riacho.
+paga2 [ˈpaga] LEX. espera; esperar.
+paga3 [ˈpaga] LEX. mentira, engano, inutilidade, .toa.
 paga inodu [IPA] ADV. [IPA] ADV. sem perceber.
 paga inodu [IPA] ADV.(none) [IPA] ADV. sem perceber.
 pagado [pagadːʌ] LEX. atravessar um curso d'água, um terreno.
@@ -4656,7 +4641,7 @@ puredugodurewu [puredugoduˈɾewu] S. aquilo que está perto.
 puredurewu [pureduˈɾewu] S. o próximo, o que está perto, o adjacente.
 ra (rade) [IPA] INTJ. forma que indica surpresa ou admiração.
 ra (rare) [IPA] LEX. copular.
-ra (rawuje) VT. descida, retirada, colheita, abandono, abstenção; descer, retirar, colher, deixar, abandonar.
+ra (rawuje) VT. descida, retirada, colheita, abandono, abstenção, deblho; descer, retirar, colher, deixar, abandonar, debulhar.
 ra [ɾa] LEX. canto, cantar.
 ra [ɾa] LEX. osso, ossada, esqueleto, dureza, broto, galho; tábua.
 rabo [ɾabo] LEX. diminuição, pequenez.
@@ -4725,9 +4710,9 @@ rarewu [ɾaˈɾewu] S. cantor.
 raru [raɾu] S. folha [audio: audio/leaf.wav]
 rarudoge [ɾarudoge] LEX. folha[IPA] LEX.
 rawudu rawudu [IPA] ADV. sempre assim.
-rawuje [ɾawudʒːe] refl. descer, retirar, colher. Ver ra.
-rawujeda [ɾawujedːa] LEX. lugar de descida, lugar de colheita.
-rawujedu PPART. descido, retirado, colhido.
+rawuje [ɾawɯdʒːe] VT. descer, retirar, colher, debulhar. Ver <i>ra</i>.
+rawujeda [ɾawɯjedːa] LEX. lugar de descida, lugar de colheita.
+rawujedu [ɾawɯjedːɯ] PPART. descido, retirado, colhido.
 rawujedurewu [ɾawujeduˈɾewu] S. o descido, o colhido.
 re [ɾe] LEX. corrida, movimento, trilho, batida, caminho, correnteza; correr.
 rea (ou reia) [IPA] LEX. movimento, caminho, trilho, batida, pista para corrida.
