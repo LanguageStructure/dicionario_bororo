@@ -4743,7 +4743,7 @@
     <ipa>baka</ipa>
     <pos>S</pos>
     <definitions>
-      <definition>pênis, falo.</definition>
+      <definition>pênis.</definition>
     </definitions>
     <comment></comment>
   </entry>
@@ -4790,7 +4790,7 @@
     <ipa>bakaɾu</ipa>
     <pos>LEX</pos>
     <definitions>
-      <definition>lenda, conto, história, mito, apólogo, tradição oral dos bororo, mistério.</definition>
+      <definition>lenda, conto, história, mito.</definition>
     </definitions>
     <comment></comment>
   </entry>
@@ -4845,7 +4845,7 @@
     <ipa>bakenaguɾu</ipa>
     <pos>LEX</pos>
     <definitions>
-      <definition>clara de ovo</definition>
+      <definition>clara de ovo.</definition>
     </definitions>
     <comment></comment>
   </entry>
@@ -4854,7 +4854,7 @@
     <ipa>IPA</ipa>
     <pos>S</pos>
     <definitions>
-      <definition>gema de ovo</definition>
+      <definition>gema de ovo.</definition>
     </definitions>
     <comment></comment>
   </entry>
@@ -4863,7 +4863,7 @@
     <ipa>bakeɾu</ipa>
     <pos>LEX</pos>
     <definitions>
-      <definition>glande do pênis</definition>
+      <definition>glande do pênis.</definition>
     </definitions>
     <comment></comment>
   </entry>
@@ -4872,7 +4872,7 @@
     <ipa>IPA</ipa>
     <pos>LEX</pos>
     <definitions>
-      <definition>clitóris</definition>
+      <definition>clitóris.</definition>
     </definitions>
     <comment></comment>
   </entry>
@@ -4992,7 +4992,7 @@
     <ipa>bakuredːʌ</ipa>
     <pos>LEX</pos>
     <definitions>
-      <definition>assediar, cercar, sitiar, fazer cerco.</definition>
+      <definition>assediar, cercar.</definition>
     </definitions>
     <comment></comment>
   </entry>
@@ -5096,6 +5096,7 @@
       <definition>escrever no papel</definition>
       <definition>escrever, pintar, desenhar.</definition>
     </definitions>
+    <audio>audio/baperaatugodo.wav</audio>
     <comment></comment>
   </entry>
   <entry>
@@ -5105,6 +5106,7 @@
     <definitions>
       <definition>indivíduo canhoto.</definition>
     </definitions>
+    <audio>audio/baperewu.wav</audio>
     <comment></comment>
   </entry>
   <entry>
@@ -5112,9 +5114,11 @@
     <ipa>bapo</ipa>
     <pos>LEX</pos>
     <definitions>
-      <definition>coração, maracá, chocalho.</definition>
+      <definition><link href="https://pt.wikipedia.org/wiki/Coração">coração</link>.</definition>
+      <definition>chocalho.</definition>
     </definitions>
     <audio>audio/heart.wav</audio>
+    <image>https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Heart_tee_four_chamber_view.jpg/960px-Heart_tee_four_chamber_view.jpg</image>
     <comment></comment>
   </entry>
   <entry>
@@ -5122,8 +5126,9 @@
     <ipa>bapoˈɾogu</ipa>
     <pos>LEX</pos>
     <definitions>
-      <definition>maracá menor: só pode ser usado pelos chefes que receberam oficialmente este poder e é destinado a marcar o ritmo de cantos para invocar espíritos ou almas (Aroe Ekeroia</definition>
+      <definition>chocalho menor: só pode ser usado pelos chefes que receberam oficialmente este poder e é destinado a marcar o ritmo de cantos para invocar espíritos ou almas (Aroe Ekeroia</definition>
     </definitions>
+    <audio>audio/baporogu.wav</audio>
     <comment></comment>
   </entry>
   <entry>
@@ -5133,6 +5138,7 @@
     <definitions>
       <definition>ninho.</definition>
     </definitions>
+    <audio>audio/.wav</audio>
     <comment></comment>
   </entry>
   <entry>
@@ -5140,13 +5146,14 @@
     <ipa>IPA</ipa>
     <pos>LEX</pos>
     <definitions>
-      <definition>casa de não-indio. Atualmente é mais usada a expressão barae ewai.</definition>
+      <definition>casa de não-indígena.</definition>
     </definitions>
-    <comment></comment>
+    <audio>audio/.wav</audio>
+    <comment>Atualmente é mais usada a expressão barae ewai.</comment>
   </entry>
   <entry>
     <headword>barae eimejera</headword>
-    <ipa>IPA</ipa>
+    <ipa>barae eimejera</ipa>
     <pos>LEX</pos>
     <definitions>
       <definition>chefe de não-indígena.</definition>
@@ -5158,25 +5165,26 @@
     <ipa>IPA</ipa>
     <pos>LEX</pos>
     <definitions>
-      <definition>meio dia (sol em cima da coroa dos brancos).</definition>
+      <definition><link href="https://pt.wikipedia.org/wiki/Meio-dia">meio dia</link> </definition>
     </definitions>
-    <comment></comment>
+    <audio>audio/baraeetaiadada.wav</audio>
+    <comment>Lit. sol em cima da coroa dos brancos</comment>
   </entry>
   <entry>
     <headword>baraedu (pl. barae)</headword>
     <ipa>IPA</ipa>
-    <pos>LEX</pos>
+    <pos>S</pos>
     <definitions>
-      <definition>não indígena.</definition>
+      <definition>não-indígena.</definition>
     </definitions>
     <comment></comment>
   </entry>
   <entry>
-    <headword>baraeredo (pl. baraereme ou brareme)</headword>
+    <headword>baraeredo (pl. baraereme)</headword>
     <ipa>IPA</ipa>
     <pos>LEX</pos>
     <definitions>
-      <definition>mulher não índia.</definition>
+      <definition>mulher não-indígena.</definition>
     </definitions>
     <comment></comment>
   </entry>
@@ -5214,7 +5222,7 @@
     <definitions>
       <definition>suspender, pendurar, amparar, ajudar.</definition>
     </definitions>
-    <frase>itaidure awo akera bararedo ii ! -- Eu quero que você me ajude (lit. que você pendure sua mão)</frase>
+    <frase>itaidure awo akera bararedo ii ! -- Eu quero que você me ajude (lit. que você pendure sua mão para mim)</frase>
     <comment></comment>
   </entry>
   <entry>
@@ -10681,7 +10689,7 @@
   <entry>
     <headword>ciodo</headword>
     <ipa>tʃiodːʌ</ipa>
-    <pos>LEX</pos>
+    <pos>VC</pos>
     <definitions>
       <definition>empurrar.</definition>
     </definitions>
@@ -10702,8 +10710,10 @@
     <ipa>IPA</ipa>
     <pos>LEX</pos>
     <definitions>
-      <definition>jap.macho, japi ou xexéu.</definition>
+      <definition>japu macho, ou xexéu (<link href="https://pt.wikipedia.org/wiki/Cacicus_cela"Cacicus cela</link>).</definition>
     </definitions>
+    <image>https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Yellow-rumped_Cacique_-_Pantanal_-_Brazil_H8O2199_%2823593614830%29.jpg/500px-Yellow-rumped_Cacique_-_Pantanal_-_Brazil_H8O2199_%2823593614830%29.jpg</image>
+    <audio>audio/ciwabo.wav</audio>
     <comment></comment>
   </entry>
   <entry>
@@ -11085,8 +11095,10 @@
     <ipa>tʃuruɾu</ipa>
     <pos>LEX</pos>
     <definitions>
-      <definition>(onom.) crispim (ave</definition>
+      <definition>(onom.) crispim (<link href="https://pt.wikipedia.org/wiki/Saci_(ave)"></link>)</definition>
     </definitions>
+    <image>https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Tapera_naevia.jpg/560px-Tapera_naevia.jpg</image>
+    <audio>audio/cururu.wav</audio>
     <comment></comment>
   </entry>
   <entry>
@@ -11094,7 +11106,7 @@
     <ipa>daka</ipa>
     <pos>ADV</pos>
     <definitions>
-      <definition>improvisamente, repentinamente.</definition>
+      <definition>repentinamente, de repente.</definition>
     </definitions>
     <comment></comment>
   </entry>
