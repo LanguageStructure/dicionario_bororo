@@ -10735,15 +10735,6 @@
     <comment></comment>
   </entry>
   <entry>
-    <headword>ciwaboe (pl. de ciwabo)</headword>
-    <ipa>IPA</ipa>
-    <pos>LEX</pos>
-    <definitions>
-      <definition>japus, xexéu.</definition>
-    </definitions>
-    <comment></comment>
-  </entry>
-  <entry>
     <headword>ciwaboe etoiaga</headword>
     <ipa>IPA</ipa>
     <pos>LEX</pos>
@@ -43522,10 +43513,12 @@
   <entry>
     <headword>uina</headword>
     <ipa>uinːa</ipa>
-    <pos>LEX</pos>
+    <pos>S</pos>
     <definitions>
-      <definition>japu, xexéu. Ver: ciwabo.</definition>
+      <definition>japu macho, ou xexéu (<link href="https://pt.wikipedia.org/wiki/Cacicus_cela"Cacicus cela</link>).</definition>
     </definitions>
+    <image>https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Yellow-rumped_Cacique_-_Pantanal_-_Brazil_H8O2199_%2823593614830%29.jpg/500px-Yellow-rumped_Cacique_-_Pantanal_-_Brazil_H8O2199_%2823593614830%29.jpg</image>
+    <audio>audio/ciwabo.wav</audio>
     <comment></comment>
   </entry>
   <entry>
@@ -43551,9 +43544,10 @@
     <ipa>unui</ipa>
     <pos>LEX</pos>
     <definitions>
-      <definition>jaó. Ver: kuo.</definition>
+      <definition>jaó (<link href="https://pt.wikipedia.org/wiki/Jaó">Crypturellus undulatus</link>).</definition>
     </definitions>
-    <comment></comment>
+    <image>https://upload.wikimedia.org/wikipedia/commons/c/cf/Crypturellus_undulatus.JPG</image>
+    <comment>Ver: kuo.</comment>
   </entry>
   <entry>
     <headword>upe</headword>
@@ -43561,7 +43555,7 @@
     <pos>LEX</pos>
     <definitions>
       <definition>tartaruga aquática</definition>
-      <definition>nome de uma constelação (algumas das suas estrelas pertencem à constelação de Escorpião</definition>
+      <definition>nome de uma constelação (algumas das suas estrelas pertencem à constelação de Escorpião)</definition>
       <definition>a que forma o pé direito da tartaruga é Antares</definition>
     </definitions>
     <comment></comment>
@@ -43703,7 +43697,7 @@
   </entry>
   <entry>
     <headword>urugadu</headword>
-    <ipa>IPA</ipa>
+    <ipa>uɾuˈgadːɯ</ipa>
     <pos>INTJ</pos>
     <definitions>
       <definition>basta! chega!</definition>
@@ -43828,12 +43822,13 @@
     <comment></comment>
   </entry>
   <entry>
-    <headword>uwai</headword>
-    <ipa>uwai</ipa>
+    <headword>uwai (pl. uwae)</headword>
+    <ipa>ˈuwai</ipa>
     <pos>LEX</pos>
     <definitions>
-      <definition>jacaré. Pl. uwae.</definition>
+      <definition>jacaré (família<link href="https://pt.wikipedia.org/wiki/Jacaré">Alligatoridae</link>)</definition>
     </definitions>
+    <image>https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Florida_Alligator.jpg/500px-Florida_Alligator.jpg</image>
     <comment></comment>
   </entry>
   <entry>
@@ -43847,7 +43842,7 @@
   </entry>
   <entry>
     <headword>uwaragararewu</headword>
-    <ipa>uwaragaraˈɾewu</ipa>
+    <ipa>uwaɾagaɾaˈɾewu</ipa>
     <pos>S</pos>
     <definitions>
       <definition>cobra cipó.</definition>
@@ -43856,7 +43851,7 @@
   </entry>
   <entry>
     <headword>uwarinogo</headword>
-    <ipa>uwariˈnogo</ipa>
+    <ipa>uwaɾiˈnogo</ipa>
     <pos>LEX</pos>
     <definitions>
       <definition>gavião tesoura.</definition>
@@ -43865,7 +43860,7 @@
   </entry>
   <entry>
     <headword>uwarudurewu</headword>
-    <ipa>uwaruduˈɾewu</ipa>
+    <ipa>uwaɾuduˈɾewu</ipa>
     <pos>S</pos>
     <definitions>
       <definition>o que foi embora, o que mudou.</definition>
@@ -43874,7 +43869,7 @@
   </entry>
   <entry>
     <headword>wadodu</headword>
-    <ipa>wadːodːɯ</ipa>
+    <ipa>waˈdːodːɯ</ipa>
     <pos>LEX</pos>
     <definitions>
       <definition>discurso, proclamação, anúncio</definition>
@@ -43910,8 +43905,8 @@
     <comment></comment>
   </entry>
   <entry>
-    <headword>ware (vrt. de are iare wore)</headword>
-    <ipa>IPA</ipa>
+    <headword>ware (vrt. de are, iare, wore)</headword>
+    <ipa>ˈwaɾe</ipa>
     <pos>LEX</pos>
     <definitions>
       <definition>possuidor.</definition>
@@ -43920,7 +43915,7 @@
   </entry>
   <entry>
     <headword>wie</headword>
-    <ipa>wie</ipa>
+    <ipa>ˈwie</ipa>
     <pos>LEX</pos>
     <definitions>
       <definition>irmão mais novo, irmã mais nova.</definition>
@@ -43929,7 +43924,7 @@
   </entry>
   <entry>
     <headword>wigiwigi</headword>
-    <ipa>wigiwigi</ipa>
+    <ipa>wigiˈwigi</ipa>
     <pos>ADV</pos>
     <definitions>
       <definition>pretende reproduzir o vôo em sob.desce de certas ave.</definition>
@@ -43937,20 +43932,11 @@
     <comment></comment>
   </entry>
   <entry>
-    <headword>wiredo (tuwiredo)</headword>
-    <ipa>IPA</ipa>
-    <pos>LEX</pos>
-    <definitions>
-      <definition>casar, casar-se (tomar esposa</definition>
-    </definitions>
-    <comment></comment>
-  </entry>
-  <entry>
     <headword>wiredo</headword>
-    <ipa>wiredːʌ</ipa>
+    <ipa>wiˈɾedːʌ</ipa>
     <pos>VC</pos>
     <definitions>
-      <definition>casar, casa-se (tomar esposa).</definition>
+      <definition>casar, tomar esposa.</definition>
     </definitions>
     <comment></comment>
   </entry>
@@ -43975,7 +43961,7 @@
   </entry>
   <entry>
     <headword>woe</headword>
-    <ipa>woe</ipa>
+    <ipa>ˈwoe</ipa>
     <pos>ADV</pos>
     <definitions>
       <definition>aqui.</definition>
@@ -43993,7 +43979,7 @@
   </entry>
   <entry>
     <headword>wore (vrt. de are iare ware)</headword>
-    <ipa>IPA</ipa>
+    <ipa>ˈwoɾe</ipa>
     <pos>LEX</pos>
     <definitions>
       <definition>possuidor.</definition>
@@ -44002,16 +43988,16 @@
   </entry>
   <entry>
     <headword>wororo</headword>
-    <ipa>woroɾo</ipa>
+    <ipa>woˈɾoɾo</ipa>
     <pos>LEX</pos>
     <definitions>
-      <definition>pátio, aldeia. Essa forma, aparece frequentemente na linguagem ritual. Ver: &lt;i&gt;bororo&lt;/i&gt;.</definition>
+      <definition>pátio, aldeia.  Ver: bororo.</definition>
     </definitions>
-    <comment></comment>
+    <comment>Essa forma pertence à linguagem ritual.</comment>
   </entry>
   <entry>
     <headword>wuri</headword>
-    <ipa>wuɾi</ipa>
+    <ipa>ˈwuɾi</ipa>
     <pos>LEX</pos>
     <definitions>
       <definition>irmão ou parente materno mais velho.</definition>
@@ -44020,7 +44006,7 @@
   </entry>
   <entry>
     <headword>wuria</headword>
-    <ipa>wuria</ipa>
+    <ipa>wuˈɾia</ipa>
     <pos>LEX</pos>
     <definitions>
       <definition>embira.</definition>
