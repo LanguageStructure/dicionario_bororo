@@ -1744,9 +1744,9 @@
     <ipa>aˈku</ipa>
     <pos>LEX</pos>
     <definitions>
-      <definition>animal doméstico. Pl. akuge ou akuiee.</definition>
+      <definition>animal doméstico.</definition>
     </definitions>
-    <comment></comment>
+    <comment>Plural: akuge ou akuie.</comment>
   </entry>
   <entry>
     <headword>aku2</headword>
@@ -1925,7 +1925,7 @@
     <ipa>amagadːɯ</ipa>
     <pos>LEX</pos>
     <definitions>
-      <definition>mexida, agitação, palpitação, tremor</definition>
+      <definition>mexida, agitação, tremor</definition>
       <definition>mexer, tremer.</definition>
     </definitions>
     <comment></comment>
@@ -4416,15 +4416,6 @@
     <comment></comment>
   </entry>
   <entry>
-    <headword>baguru (vrt. de maguru)</headword>
-    <ipa>IPA</ipa>
-    <pos>LEX</pos>
-    <definitions>
-      <definition>viagem coletiva.</definition>
-    </definitions>
-    <comment></comment>
-  </entry>
-  <entry>
     <headword>bai (baigodu)</headword>
     <ipa>IPA</ipa>
     <pos>LEX</pos>
@@ -4436,10 +4427,11 @@
   <entry>
     <headword>bai (pl. bae)</headword>
     <ipa>IPA</ipa>
-    <pos>LEX</pos>
+    <pos>S</pos>
     <definitions>
-      <definition>variedade de urubu, urubu branco, urub.rei.</definition>
+      <definition>urubu-rei. (<link href="https://pt.wikipedia.org/wiki/Urubu-rei">Sarcoramphus papa</link>)</definition>
     </definitions>
+    <image>https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Sarcoramphus_papa_-National_Zoo_-Washington_-USA-8a.jpg/960px-Sarcoramphus_papa_-National_Zoo_-Washington_-USA-8a.jpg</image>
     <comment></comment>
   </entry>
   <entry>
